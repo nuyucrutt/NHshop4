@@ -37,4 +37,4 @@
 
 <h1 align="left">Checpoint 1</h1>
   
-<img alt="checpoint1" width="200px" align="left" src="Screenshot 2024-12-07 at 06.52.29.png" >
+<img alt="checpoint1" width="200px" align="left" src="Screenshot 2024-12-07 at 06.52.29.png" ><br>
