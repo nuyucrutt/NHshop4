@@ -25,6 +25,16 @@
 - Put things into a variable for a meaningful naming.
 - Make a function to get the random recipe for more neat code.
 
+## Current Project Features
+- A shopping application built with React.
+- Users can view products, add them to the cart, and manage their cart items.
+
+## How to Run the Project
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run `npm install` to install dependencies.
+4. Run `npm start` to start the development server.
+
 <h1 align="left">Checpoint 1</h1>
   
-<img alt="checpoint1" width="200px" align="left" src="Screenshot 2024-12-07 at 06.52.29.png" ><br>
+<img alt="checpoint1" width="200px" align="left" src="Screenshot 2024-12-07 at 06.52.29.png" >
